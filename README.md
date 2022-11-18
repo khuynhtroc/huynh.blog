@@ -1,1 +1,1 @@
-# huynh.life
+# huynh.blog
