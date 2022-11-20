@@ -14,8 +14,8 @@ Bắt đầu ngay thôi!
 ## Technical
 - Checklist: [Link Google Drive](https://docs.google.com/spreadsheets/d/1VAxjED3IFBANaLP1rG_89-P6VANF_qukb3s2zLWtbQg/edit?usp=sharing) (Cần share thì comment ở dưới nha).
 - Công cụ thường dùng để kiểm tra khuyến khích mình hay dùng.
--- Bản Web dùng Semrush.
--- Bản cài trên máy: Website Auditor.
+	- Bản Web dùng Semrush.
+	- Bản cài trên máy: Website Auditor.
 
 ## Keyword
 - Nghiên cứu Từ khoá tránh ăn thịt.
