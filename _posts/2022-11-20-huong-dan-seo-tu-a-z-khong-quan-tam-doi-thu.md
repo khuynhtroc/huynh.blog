@@ -82,8 +82,8 @@ Bắt đầu ngay thôi!
 
 6. Bơm 1 ít traffic user/backlink vào các bài big content hoặc trang chủ.
 
-7. Đợi tín hiệu
+7. Đợi tín hiệu.
 	Mua backlink tầm khoảng 30 - 200 ref domain phân bổ theo mỗi tuần/tháng, đẩy thêm traffic user nếu từ khoá chính/từ khoá phụ trong bài big content bắt đầu vào top.
-8. Ngồi đợi lên top và kiểm tra lại Technical & Onpage
+8. Ngồi đợi lên top và kiểm tra lại Technical & Onpage.
 
-*Nguồn: Mai Văn Quốc form Group ![NghienSEO](https://www.facebook.com/groups/nghienseo/)*.
+*Nguồn: Mai Văn Quốc form Group [NghienSEO](https://www.facebook.com/groups/nghienseo/)*.
