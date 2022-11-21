@@ -9,7 +9,7 @@ description: Công thức và Quy Trình SEO từ A đến Z Không Cần Quan T
 
 Bắt đầu ngay thôi!
 
-![huong-dan-seo-tu-a-z-khong-quan-tam-doi-thu](/assets/images/blog/seo/SEO_a-z_bat_chap_doi_thu.jpg)
+![Công thức và Quy Trình SEO từ A đến Z Không Cần Quan Tâm Đối Thủ](/assets/images/blog/seo/SEO_a-z_bat_chap_doi_thu.jpg)
 
 ## Technical
 - Checklist: [Link Google Drive](https://docs.google.com/spreadsheets/d/1VAxjED3IFBANaLP1rG_89-P6VANF_qukb3s2zLWtbQg/edit?usp=sharing) (Cần share thì comment ở dưới nha).
