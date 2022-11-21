@@ -4,14 +4,12 @@ tags: [Digital Marketing]
 style: fill
 color: primary
 comments: true
-description: 
+description: Các khóa học Digital Marketing Miễn Phí này các bạn sẽ được biết nhiều hơn về kiến thức chuyên ngành và không chỉ thế có khi còn nhận được các chứng chỉ để làm đẹp CV nữa đấy.
 ---
 
 ![Khóa Học DIGITAL MARKETING MIỄN PHÍ Có Chứng Chỉ GOOGLE, FACEBOOK, MICROSOFT](/assets/images/blog/seo/khoa-hoc-digital-marketing-mien-phi-co-chung-chi-google-facebook-microsoft.jpg)
 
-***Link tham khảo thêm phần comment nếu bị lỗi.***
-
-Trong những hôm dịch bênh đang hoành hành như thế này thì hãy tranh thủ thời gian tham gia các khóa học này nhé. Thông qua các khóa học này các bạn sẽ được biết nhiều hơn về kiến thức chuyên ngành và không chỉ thế có khi còn nhận được các chứng chỉ để làm đẹp CV nữa đấy.
+Các khóa học Digital Marketing Miễn Phí này các bạn sẽ được biết nhiều hơn về kiến thức chuyên ngành và không chỉ thế có khi còn nhận được các chứng chỉ để làm đẹp CV nữa đấy.
 
 ## 1. KHÓA BECOME A DIGITAL MARKETING SPECIALIST
 

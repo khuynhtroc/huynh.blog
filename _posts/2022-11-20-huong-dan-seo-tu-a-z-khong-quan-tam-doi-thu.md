@@ -4,7 +4,7 @@ tags: [SEO]
 style: fill
 color: primary
 comments: true
-description: 
+description: Công thức và Quy Trình SEO từ A đến Z Không Cần Quan Tâm Đối Thủ.
 ---
 
 Bắt đầu ngay thôi!
