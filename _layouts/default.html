@@ -3,8 +3,9 @@
 <html lang="en" class="h-100">
 
 {% include head.html %}
-
+{% include analytics_header.html %}
 <body class="h-100 d-flex flex-column">
+{% include analytics_body.html %}
 
   <main class="flex-shrink-0 container mt-5">
     {% include navbar.html %}
@@ -12,7 +13,7 @@
   </main>
   {% include footer.html %}
 
-  {% include analytics.html %}
+
   {% include scripts.html %}
 
   <!-- {%- if site.buymeacoffee.enabled == true -%}
