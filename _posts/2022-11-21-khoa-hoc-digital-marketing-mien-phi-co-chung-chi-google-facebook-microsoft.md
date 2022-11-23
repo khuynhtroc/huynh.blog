@@ -2,7 +2,7 @@
 title: Tổng Hợp Khóa Học DIGITAL MARKETING MIỄN PHÍ Có Chứng Chỉ GOOGLE, FACEBOOK, MICROSOFT
 tags: [Digital Marketing]
 style: fill
-color: primary
+color: success
 comments: true
 description: Các khóa học Digital Marketing Miễn Phí này các bạn sẽ được biết nhiều hơn về kiến thức chuyên ngành và không chỉ thế có khi còn nhận được các chứng chỉ để làm đẹp CV nữa đấy.
 ---
